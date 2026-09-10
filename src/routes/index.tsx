@@ -2,8 +2,8 @@ import { createFileRoute } from "@tanstack/react-router";
 import { useState } from "react";
 
 import cuidadoMaos from "@/assets/cuidado-maos.jpg";
-import heroAsset from "@/assets/fisiofemclinic-maternidade.jpg.asset.json";
-import logoAsset from "@/assets/fisiofemclinic-logo.png.asset.json";
+import heroAsset from "@/assets/fisiofemclinic-maternidade.jpg";
+import logoAsset from "@/assets/fisiofemclinic-logo.png";
 
 export const Route = createFileRoute("/")({
   head: () => ({
@@ -43,7 +43,7 @@ function Index() {
         <div className="mx-auto flex max-w-6xl items-center justify-between px-6 py-6 lg:px-10">
           <a href="#" className="flex items-center gap-3">
             <img
-              src={logoAsset.url}
+              src={logoAsset}
               alt="FisioFemClinic"
               className="h-14 w-36 object-contain sm:h-16 sm:w-44"
             />
@@ -124,7 +124,7 @@ function Index() {
               <div className="absolute -left-8 bottom-8 -z-0 size-28 rounded-full bg-sage/20" />
               <div className="relative z-10">
                 <img
-                  src={heroAsset.url}
+                  src={heroAsset}
                   alt="Gestante acariciando a barriga em um campo florido"
                   width={1024}
                   height={1280}
@@ -613,7 +613,7 @@ function Index() {
           <div className="grid gap-10 md:grid-cols-2">
             <div>
               <img
-                src={logoAsset.url}
+                src={logoAsset}
                 alt="FisioFemClinic"
                 className="h-24 w-52 object-contain object-left"
               />
