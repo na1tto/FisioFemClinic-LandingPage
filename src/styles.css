@@ -61,7 +61,7 @@
   --color-sidebar-border: var(--sidebar-border);
   --color-sidebar-ring: var(--sidebar-ring);
 
-  /* Fisio Fem Clinic palette */
+  /* FisioFemClinic palette */
   --color-nude: var(--nude);
   --color-rose: var(--rose);
   --color-sage: var(--sage);
@@ -111,7 +111,7 @@
   --sidebar-border: oklch(0.929 0.013 255.508);
   --sidebar-ring: oklch(0.704 0.04 256.788);
 
-  /* Fisio Fem Clinic palette */
+  /* FisioFemClinic palette */
   --nude: oklch(0.8536 0.0401 57.2939);
   --rose: oklch(0.7633 0.0625 31.2070);
   --sage: oklch(0.7521 0.0533 137.1525);
