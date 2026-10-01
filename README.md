@@ -1,11 +1,3 @@
-# Maternidade Ser Plena
-
-Vamos planejar o design de um protótipo para uma Clínica Especializada em Fisioterapia Obstétrica e que trabalha com Assistência individualizada para gestantes e puérperas, a paleta de cores da empresa consiste em um Nude (#E4C9B6) Dusty Rose (#D7A9A) e Sage (#D7A49A), dessas três, o Rose e o Nude devem ser as cores principais com o sage sendo secundária, escolha uma cor a mais, combinando com as demais, para ser a terciária.
-
-A página consiste em uma espécie de landing page da clínica, nela será possivel também que o usuario assine um plano mensal para usufruir dos serviços, que são: Fisioterapia pélvica, pilates e recursos manuais (massagens relaxantes e drenagem linfatica), todos esses serviços são voltados para mulheres gestantes e puerpérias. 
-
-Você irá gerar três desings diferentes para a prototipação desse projeto.
-
 This project was built with [Lovable](https://lovable.dev).
 
 ## Build with Lovable
